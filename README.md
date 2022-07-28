@@ -1,1 +1,1 @@
-# Leetcode_Problem_Solved-
+# Leetcode All type of solutions
